@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "プレイヤーズガイド",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "遊び方",
             "pages": [
               "index",
               "quickstart",
