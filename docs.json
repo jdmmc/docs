@@ -14,9 +14,14 @@
         "tab": "プレイヤーズガイド",
         "groups": [
           {
+            "pages": [
+              "index"
+            ]
+          },
+          {
             "group": "遊び方",
             "pages": [
-              "index",
+              "join",
               "quickstart",
               "development"
             ]
