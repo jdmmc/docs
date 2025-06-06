@@ -14,28 +14,26 @@
         "tab": "プレイヤーズガイド",
         "groups": [
           {
-            "group": "このサイトについて",
+            "group": "概要",
             "pages": [
               "index"
             ]
           },
           {
-            "group": "遊び方",
+            "group": "サーバーについて",
             "pages": [
               "join",
-              "quickstart",
-              "development"
+              "term"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "遊び方",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "servers/survival",
+              "servers/eft",
+              "servers/kit",
+              "servers/wave",
+              "servers/creative"
             ]
           }
         ]
