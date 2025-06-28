@@ -29,7 +29,13 @@
           {
             "group": "遊び方",
             "pages": [
-              "servers/survival",
+              {
+					"group": "軍事サバイバル（ARMY）",
+					"pages": [
+                        "servers/army",
+                        "servers/army/commands"
+					]
+              },
               "servers/eft",
               "servers/kit",
               "servers/wave",
