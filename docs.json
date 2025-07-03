@@ -36,6 +36,12 @@
                         "servers/army/commands"
 					]
               },
+              {
+					"group": "キットPVP（KIT）",
+					"pages": [
+                        "servers/kit/about"
+					]
+              },
               "servers/eft",
               "servers/kit",
               "servers/wave",
