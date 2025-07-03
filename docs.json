@@ -32,7 +32,7 @@
               {
 					"group": "軍事サバイバル（ARMY）",
 					"pages": [
-                        "servers/army",
+                        "servers/army/about",
                         "servers/army/commands"
 					]
               },
