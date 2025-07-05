@@ -33,6 +33,7 @@
 					"group": "軍事サバイバル（ARMY）",
 					"pages": [
                         "servers/army/about",
+                        "servers/army/war",
                         "servers/army/commands"
 					]
               },
