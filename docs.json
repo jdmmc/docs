@@ -34,7 +34,8 @@
 					"pages": [
                         "servers/army/about",
                         "servers/army/war",
-                        "servers/army/commands"
+                        "servers/army/commands",
+                        "servers/army/terms"
 					]
               },
               {
