@@ -36,6 +36,7 @@
                         "servers/army/war",
                         "servers/army/commands",
                         "servers/army/worlds",
+                        "servers/army/restrict",
                         "servers/army/terms"
 					]
               },
