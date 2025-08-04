@@ -37,6 +37,7 @@
                         "servers/army/commands",
                         "servers/army/worlds",
                         "servers/army/restrict",
+                        "servers/army/qanda",
                         "servers/army/terms"
 					]
               },
