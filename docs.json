@@ -47,9 +47,12 @@
                         "servers/kit/about"
 					]
               },
-              "servers/eft",
-              "servers/wave",
-              "servers/creative"
+              {
+					"group": "タルコフ（EFT）",
+					"pages": [
+                        "servers/eft/about"
+					]
+              }
             ]
           }
         ]
