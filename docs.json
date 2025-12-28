@@ -30,15 +30,15 @@
             "group": "遊び方",
             "pages": [
               {
-					"group": "軍事サバイバル（ARMY）",
+					"group": "軍事サバイバル（NEXUS）",
 					"pages": [
-                        "servers/army/about",
-                        "servers/army/war",
-                        "servers/army/commands",
-                        "servers/army/worlds",
-                        "servers/army/restrict",
-                        "servers/army/qanda",
-                        "servers/army/terms"
+                        "servers/nexus/about",
+                        "servers/nexus/war",
+                        "servers/nexus/commands",
+                        "servers/nexus/worlds",
+                        "servers/nexus/restrict",
+                        "servers/nexus/qanda",
+                        "servers/nexus/terms"
 					]
               },
               {
