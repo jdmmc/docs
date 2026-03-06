@@ -53,12 +53,14 @@
               },
               {
                 "group": "キットPVP（KIT）",
+                "icon": "kitchen-set",
                 "pages": [
                   "servers/kit/about"
                 ]
               },
               {
                 "group": "タルコフ（EFT）",
+                "icon": "arrow-up-left-from-circle",
                 "pages": [
                   "servers/eft/about"
                 ]
