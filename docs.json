@@ -42,13 +42,13 @@
                 "group": "軍事サバイバル（Re:ARMY）",
                 "icon": "helmet-un",
                 "pages": [
-                  "servers/nexus/about",
-                  "servers/nexus/war",
-                  "servers/nexus/commands",
-                  "servers/nexus/worlds",
-                  "servers/nexus/restrict",
-                  "servers/nexus/qanda",
-                  "servers/nexus/terms"
+                  "servers/army/about",
+                  "servers/army/war",
+                  "servers/army/commands",
+                  "servers/army/worlds",
+                  "servers/army/restrict",
+                  "servers/army/qanda",
+                  "servers/army/terms"
                 ]
               },
               {
